@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Exported with FeedBro Firefox exstention -->
 <opml version="1.0">
 <head>
 <title>Feed Subscriptions</title>
 </head>
 <body>
   <outline title="Cybersecurity" text="Cybersecurity">
+      <outline text="Schneier on Security" title="Schneier on Security" type="rss" 
+            xmlUrl="https://www.schneier.com/feed/atom/" htmlUrl="https://www.schneier.com/"/>
       <outline text="Cyber Security News" title="Cyber Security News" type="rss" 
             xmlUrl="https://cybersecuritynews.com/feed/" htmlUrl="https://cybersecuritynews.com/"/>
       <outline text="Cybersecurity Magazine" title="Cybersecurity Magazine" type="rss" 
