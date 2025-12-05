@@ -24,5 +24,3 @@ Some u(nu)seful scripts
 # Resources
 ## GRC
 [Resources](./GRC) to support GRC activities
-## Best cybersecurity feeds
-[OPML](./fb-cyb.opml)
